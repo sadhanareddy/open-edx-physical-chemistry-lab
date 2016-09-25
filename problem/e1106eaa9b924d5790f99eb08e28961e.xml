@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Molecular vibration requires:&#10;() high energy radiation&#10;() low-energy radiation&#10;() least energy radiation&#10;(x) gamma radiation&#10;&#10;&gt;&gt; The IR spectrum is usually given as:&#10;() Hertz&#10;(x) Wavenumber&#10;() Frequency&#10;() Option a and b&#10;&#10;&gt;&gt; The relation between the wavenumber and the wavelenght is:&#10;(x) Wavenumber = 1 / wavelength in centimeters&#10;() Wavenumber = 100 / wavelength in nanometers&#10;() Wavelength in nanometers = 1 / wavenumber&#10;() not related&#10;&#10;&gt;&gt; The IR measurements are given in wavenumber (cm-1) rather than wavelength because:&#10;() wavelength measured in centimeters are too large area to scan&#10;() wavelength measured in centimeters are large value to read and interpret&#10;(x) wavelength measured in micrometers are very small value to read and interpret&#10;() wavelength measured in micrometers are too large area to scan&#10;&#10;&gt;&gt; Which of the following is not an IR vibrational mode:&#10;() stretching&#10;() scissoring&#10;() rocking&#10;(x) rolling&#10;&#10;&gt;&gt; Which among the following requires the most energy?&#10;(x) asymmetric stretch&#10;() wag and twist&#10;() asymmetric bend&#10;() symmetric bend&#10;&#10;&gt;&gt; A typical IR spectrum can be divided into two regions 600 to 1400cm-1 (right portion) and 1400 to 4000cm-1 left portion) , the right portion of the spectrum is called&#10;() right region&#10;() funtional group region&#10;(x) finger print region&#10;() vibrational region&#10;&#10;&gt;&gt; Which of the foloowing amines show two spikes for the N-H streching?&#10;() Primary amines&#10;()x Secondary amines&#10;() Tertiary amines&#10;() All the above&#10;&#10;&gt;&gt; The O-H group in alcohol and carboxylic acids show at:&#10;() At the same region around 3000cm-1&#10;() alcohol at 3300cm-1 and carboxylic acid at 3000cm-1&#10;(x) alcohol at 3000cm-1 and carboxylic acid at 3300cm-1&#10;() Cannot say&#10;&#10;&gt;&gt; While handling the salt plates it is important not to use bare hands because:&#10;() The moisture from the hand would affect the salt plates and the spectrum&#10;() The solvents used are often carcinogenic.&#10;() The oils and dirt on your fingers will affect your spectrum.&#10;(x) All of the above.">
+<p>&gt;&gt; Molecular vibration requires:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">high energy radiation</choice>
+    <choice correct="false">low-energy radiation</choice>
+    <choice correct="false">least energy radiation</choice>
+    <choice correct="true">gamma radiation</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The IR spectrum is usually given as:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Hertz</choice>
+    <choice correct="true">Wavenumber</choice>
+    <choice correct="false">Frequency</choice>
+    <choice correct="false">Option a and b</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The relation between the wavenumber and the wavelenght is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Wavenumber = 1 / wavelength in centimeters</choice>
+    <choice correct="false">Wavenumber = 100 / wavelength in nanometers</choice>
+    <choice correct="false">Wavelength in nanometers = 1 / wavenumber</choice>
+    <choice correct="false">not related</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The IR measurements are given in wavenumber (cm-1) rather than wavelength because:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">wavelength measured in centimeters are too large area to scan</choice>
+    <choice correct="false">wavelength measured in centimeters are large value to read and interpret</choice>
+    <choice correct="true">wavelength measured in micrometers are very small value to read and interpret</choice>
+    <choice correct="false">wavelength measured in micrometers are too large area to scan</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Which of the following is not an IR vibrational mode:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">stretching</choice>
+    <choice correct="false">scissoring</choice>
+    <choice correct="false">rocking</choice>
+    <choice correct="true">rolling</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Which among the following requires the most energy?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">asymmetric stretch</choice>
+    <choice correct="false">wag and twist</choice>
+    <choice correct="false">asymmetric bend</choice>
+    <choice correct="false">symmetric bend</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; A typical IR spectrum can be divided into two regions 600 to 1400cm-1 (right portion) and 1400 to 4000cm-1 left portion) , the right portion of the spectrum is called</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">right region</choice>
+    <choice correct="false">funtional group region</choice>
+    <choice correct="true">finger print region</choice>
+    <choice correct="false">vibrational region</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Which of the foloowing amines show two spikes for the N-H streching?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Primary amines</choice>
+    <choice correct="false">x Secondary amines</choice>
+    <choice correct="false">Tertiary amines</choice>
+    <choice correct="false">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The O-H group in alcohol and carboxylic acids show at:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">At the same region around 3000cm-1</choice>
+    <choice correct="false">alcohol at 3300cm-1 and carboxylic acid at 3000cm-1</choice>
+    <choice correct="true">alcohol at 3000cm-1 and carboxylic acid at 3300cm-1</choice>
+    <choice correct="false">Cannot say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; While handling the salt plates it is important not to use bare hands because:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">The moisture from the hand would affect the salt plates and the spectrum</choice>
+    <choice correct="false">The solvents used are often carcinogenic.</choice>
+    <choice correct="false">The oils and dirt on your fingers will affect your spectrum.</choice>
+    <choice correct="true">All of the above.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

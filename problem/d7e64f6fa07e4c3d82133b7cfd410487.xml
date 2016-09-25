@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; 1. The most commonly used and relatively less expensive cell for routine use in IR spectroscopy is:&#10;(x) Sodium chloride&#10;() Potassium Chloride&#10;() Glass Cells&#10;() Plastic Cells&#10;&#10;&gt;&gt; Materials made of glass are not used for IR measurement because:&#10;(x) strongly absorb through out the IR region of the spectrum.&#10;() do not absorb through out the IR region of the spectrum.&#10;() udergo scattering.&#10;() remains unaltered&#10;&#10;&gt;&gt; To measure the Spectrum of a compound in the range of 4000 to 400 cm-1 the following plates is used:&#10;() Glass plates&#10;() Sodium chloride plates&#10;(x) Potassium bromide plates&#10;() Silica plates&#10;&#10;&gt;&gt; Which of the following bonds is expected to have the highest frequency stretch?&#10;() carbon-carbon single bond&#10;() carbon-carbon double bond&#10;(x) carbon-carbon triple bond&#10;() carbon-bromine single bond&#10;&#10;&gt;&gt; A strong signal at 3300 cm-1 in an IR spectrum indicates presence of&#10;(x) alcohol&#10;() ether&#10;() carbonyl&#10;() amine&#10;&#10;&gt;&gt; The carbonyl (C=O) stretching frequency appears at:&#10;() 740 - 720&#10;(x) 1870 - 1650&#10;() 3640 - 3250&#10;() 1160 - 1030&#10;&#10;&gt;&gt; Where in an IR spectrum does a carbon-carbon triple bond show a stretching vibration&#10;() 2700 cm-1&#10;() 3100 cm-1&#10;(x) 2100 cm-1&#10;() 3300 cm-1&#10;&#10;&gt;&gt; Infrared spectroscopy provides valuable information about&#10;() molecular weight&#10;() Physical properties&#10;() chemical properties&#10;(x) functional groups.&#10;&#10;&gt;&gt; What determines the intensity of an IR peak absorption in an IR spectrum?&#10;() the change in polarizability during vibration&#10;() the change in bond length during vibration&#10;(x) the change in dipole moment during vibration&#10;() the molecular weight of the bonding atoms&#10;&#10;&gt;&gt; The most effect method of IR spectroscopy is the:&#10;() Dispersion spectrometers&#10;() Reflection spectrometers&#10;(x) Fourier-Transform spectrometers&#10;() Deflection spectrometers">
+<p>&gt;&gt; 1. The most commonly used and relatively less expensive cell for routine use in IR spectroscopy is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Sodium chloride</choice>
+    <choice correct="false">Potassium Chloride</choice>
+    <choice correct="false">Glass Cells</choice>
+    <choice correct="false">Plastic Cells</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Materials made of glass are not used for IR measurement because:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">strongly absorb through out the IR region of the spectrum.</choice>
+    <choice correct="false">do not absorb through out the IR region of the spectrum.</choice>
+    <choice correct="false">udergo scattering.</choice>
+    <choice correct="false">remains unaltered</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; To measure the Spectrum of a compound in the range of 4000 to 400 cm-1 the following plates is used:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Glass plates</choice>
+    <choice correct="false">Sodium chloride plates</choice>
+    <choice correct="true">Potassium bromide plates</choice>
+    <choice correct="false">Silica plates</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Which of the following bonds is expected to have the highest frequency stretch?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">carbon-carbon single bond</choice>
+    <choice correct="false">carbon-carbon double bond</choice>
+    <choice correct="true">carbon-carbon triple bond</choice>
+    <choice correct="false">carbon-bromine single bond</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; A strong signal at 3300 cm-1 in an IR spectrum indicates presence of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">alcohol</choice>
+    <choice correct="false">ether</choice>
+    <choice correct="false">carbonyl</choice>
+    <choice correct="false">amine</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The carbonyl (C=O) stretching frequency appears at:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">740 - 720</choice>
+    <choice correct="true">1870 - 1650</choice>
+    <choice correct="false">3640 - 3250</choice>
+    <choice correct="false">1160 - 1030</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Where in an IR spectrum does a carbon-carbon triple bond show a stretching vibration</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">2700 cm-1</choice>
+    <choice correct="false">3100 cm-1</choice>
+    <choice correct="true">2100 cm-1</choice>
+    <choice correct="false">3300 cm-1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Infrared spectroscopy provides valuable information about</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">molecular weight</choice>
+    <choice correct="false">Physical properties</choice>
+    <choice correct="false">chemical properties</choice>
+    <choice correct="true">functional groups.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; What determines the intensity of an IR peak absorption in an IR spectrum?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">the change in polarizability during vibration</choice>
+    <choice correct="false">the change in bond length during vibration</choice>
+    <choice correct="true">the change in dipole moment during vibration</choice>
+    <choice correct="false">the molecular weight of the bonding atoms</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The most effect method of IR spectroscopy is the:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Dispersion spectrometers</choice>
+    <choice correct="false">Reflection spectrometers</choice>
+    <choice correct="true">Fourier-Transform spectrometers</choice>
+    <choice correct="false">Deflection spectrometers</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

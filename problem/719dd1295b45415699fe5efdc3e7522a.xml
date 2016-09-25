@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; In a mass spectrometry the sample under study is&#10;(x) is converted to the vapor state before entering the ionization chamber&#10;() is converted to liquid state before entering the ionization chamber&#10;() is passed through the ionization chamber and is converted to vapor state.&#10;() is directly studied in gas , liquid or solid state.&#10;&#10;&gt;&gt; Regardless of the method of sample introduction, sample molecules undergo the following before being analyzed or detected:&#10;(x) converted to charge particles by ion source&#10;() converted to gas or liquid state&#10;() repelled by the electric or magnetic field.&#10;() keep under vacuum&#10;&#10;&gt;&gt; The simplest and the common method of converting a sample to ion is&#10;() Filament heating&#10;(x) Electron Ionization&#10;() Electrospray Ionization&#10;() Chemical ionization&#10;&#10;&gt;&gt; The energy required to remove an electron from an atom or molecule is&#10;() Ionization electron&#10;(x) Ionization energy/potential&#10;() Electron affinity&#10;() Electronegativity&#10;&#10;&gt;&gt; The drawback to EI-MS are :&#10;() lifetime of some compound fragments are too short to be detected&#10;() samples should be relatively volatile&#10;() compounds with high molecular weights cannot be measured&#10;(x) All the above&#10;&#10;&gt;&gt; The mass spectrometry that uses desorption ionization (DI) techniques are:&#10;() Secondary ion mass spectroscopy (SIMS)&#10;() Fast atom bombardment (FAB)&#10;() Matrix-assisted laser desorption ionization (MALDI)&#10;(x) All the above&#10;&#10;&gt;&gt; Larger and non volatile molecules can be detected using:&#10;() EI-MS&#10;(x) MALDI&#10;() CI-MS&#10;() None of the above&#10;&#10;&gt;&gt; If a compound has an even number of nitrogen atoms, its molecular ion will appear at an even mass and a compounds with an odd number of nitrogen atoms, the molecular ion will appear at an odd mass. This is called:&#10;() Mass rule&#10;() Molecular ion rule&#10;(x) Nitrogen rule&#10;() Mass determination rule&#10;&#10;&gt;&gt; To confirm a particular peak corresponds to a molecular ion is done by:&#10;() checking for the most intense peak&#10;(x) lowering the energy of the beam as a result the intensity of the molecular ion peak will increas&#10;() Increasing the amount of the sample taken&#10;() Look for the parent peak&#10;&#10;&gt;&gt; The presence of which element in a compound is characterized by an odd number of m/z for its parent peak?&#10;() Oxygen&#10;() Carbon&#10;(x) Nitrogen&#10;() Hydrogen&#10;&#10;">
+<p>&gt;&gt; In a mass spectrometry the sample under study is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">is converted to the vapor state before entering the ionization chamber</choice>
+    <choice correct="false">is converted to liquid state before entering the ionization chamber</choice>
+    <choice correct="false">is passed through the ionization chamber and is converted to vapor state.</choice>
+    <choice correct="false">is directly studied in gas , liquid or solid state.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Regardless of the method of sample introduction, sample molecules undergo the following before being analyzed or detected:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">converted to charge particles by ion source</choice>
+    <choice correct="false">converted to gas or liquid state</choice>
+    <choice correct="false">repelled by the electric or magnetic field.</choice>
+    <choice correct="false">keep under vacuum</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The simplest and the common method of converting a sample to ion is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Filament heating</choice>
+    <choice correct="true">Electron Ionization</choice>
+    <choice correct="false">Electrospray Ionization</choice>
+    <choice correct="false">Chemical ionization</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The energy required to remove an electron from an atom or molecule is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Ionization electron</choice>
+    <choice correct="true">Ionization energy/potential</choice>
+    <choice correct="false">Electron affinity</choice>
+    <choice correct="false">Electronegativity</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The drawback to EI-MS are :</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">lifetime of some compound fragments are too short to be detected</choice>
+    <choice correct="false">samples should be relatively volatile</choice>
+    <choice correct="false">compounds with high molecular weights cannot be measured</choice>
+    <choice correct="true">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The mass spectrometry that uses desorption ionization (DI) techniques are:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Secondary ion mass spectroscopy (SIMS)</choice>
+    <choice correct="false">Fast atom bombardment (FAB)</choice>
+    <choice correct="false">Matrix-assisted laser desorption ionization (MALDI)</choice>
+    <choice correct="true">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Larger and non volatile molecules can be detected using:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">EI-MS</choice>
+    <choice correct="true">MALDI</choice>
+    <choice correct="false">CI-MS</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; If a compound has an even number of nitrogen atoms, its molecular ion will appear at an even mass and a compounds with an odd number of nitrogen atoms, the molecular ion will appear at an odd mass. This is called:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mass rule</choice>
+    <choice correct="false">Molecular ion rule</choice>
+    <choice correct="true">Nitrogen rule</choice>
+    <choice correct="false">Mass determination rule</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; To confirm a particular peak corresponds to a molecular ion is done by:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">checking for the most intense peak</choice>
+    <choice correct="true">lowering the energy of the beam as a result the intensity of the molecular ion peak will increas</choice>
+    <choice correct="false">Increasing the amount of the sample taken</choice>
+    <choice correct="false">Look for the parent peak</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The presence of which element in a compound is characterized by an odd number of m/z for its parent peak?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Oxygen</choice>
+    <choice correct="false">Carbon</choice>
+    <choice correct="true">Nitrogen</choice>
+    <choice correct="false">Hydrogen</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

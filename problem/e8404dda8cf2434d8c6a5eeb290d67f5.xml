@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Spectral transistion has important property of position and frequency. The other imporant properties&#10;&#10;(x) width and intensity&#10;() width and broadness&#10;() intensity and broadness&#10;() all the above&#10;&#10;&gt;&gt; Calculate the stretching frequencies of C=C bond:&#10;&#10;(x) 1650 cm-1&#10;() 3000 cm-1&#10;() 2206 cm-1&#10;() 1750 cm-1&#10;&#10;&gt;&gt; Air contains two major infrared active molecules:&#10;&#10;() nitrogen and oxygen&#10;() nitrogen and water vapour&#10;() oxygen and carbon dioxide&#10;(x) carbon dioxide and water vapour&#10;&#10;&gt;&gt; At 100 MHz frequency NMR spectrometer, the shift of the methyl bromide protons is 270 Hz from TMS. Calculate the chemical shift (?) of the compound:&#10;&#10;(x) 2.70 ppm&#10;() 0.370 ppm&#10;() 3.70 ppm&#10;() 0.27 ppm&#10;&#10;&gt;&gt; The distance between the peaks in a simple multiplet is called :&#10;&#10;() spin multiplicity&#10;() pascal triangle&#10;(x) coupling constant&#10;() chemical shift&#10;&#10;&gt;&gt; The solvent used for proton NMR measurements should contain deuterium:&#10;&#10;() to get a refine spectrum&#10;() because it is easy to solve the spectrum&#10;() protons can be located with deuterium as references&#10;(x) for locking and shimming purposed on FT NMR instruments&#10;&#10;&gt;&gt; A metastable ion peak in a mass spectrum is the:&#10;&#10;() highest intensity peak&#10;() less stable peak which are hardly seen in a mass spectra&#10;(x) broad peak which frequently appear at nonintegral values of m/z&#10;() broad peaks which appear at the M+ ion value&#10;&#10;&gt;&gt; The molecular ion peak in an aldehyde is:&#10;&#10;() usually weak for both aromatic and aliphatic aldehyde&#10;() usually weak for an aromatic aldehyde&#10;() strong for an aliphatic aldehyde&#10;(x) weak for an aliphatic aldehyde and strong for an aromatic aldehyde&#10;&#10;&gt;&gt; The molecuar ion peak for nitro compounds are seldom seen in a mass spectra. The nitro compounds can be indentified by:&#10;&#10;(x) moderate peak at m/z = 30 corresponding to NO+ and weak peak at m/z =46 corresponding to NO2+ ions&#10;() strong peaks at m/z = 30 corresponding to NO+ and weak peak at m/z =46 corresponding to NO2+ ions&#10;() only a weak peak at m/z =46 corresponding to NO2+ ions&#10;() only a moderate peak at m/z = 30 corresponding to NO+&#10;&#10;&gt;&gt; Carbon dioxide laser which is a mixture of carbon dioxide and nitrogen has a potential use in routine:&#10;&#10;(x) Infrared spectroscopy&#10;() mass spectroscopy&#10;() NMR spectroscopy&#10;() Laser technology">
+<p>&gt;&gt; Spectral transistion has important property of position and frequency. The other imporant properties</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">width and intensity</choice>
+    <choice correct="false">width and broadness</choice>
+    <choice correct="false">intensity and broadness</choice>
+    <choice correct="false">all the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Calculate the stretching frequencies of C=C bond:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">1650 cm-1</choice>
+    <choice correct="false">3000 cm-1</choice>
+    <choice correct="false">2206 cm-1</choice>
+    <choice correct="false">1750 cm-1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Air contains two major infrared active molecules:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">nitrogen and oxygen</choice>
+    <choice correct="false">nitrogen and water vapour</choice>
+    <choice correct="false">oxygen and carbon dioxide</choice>
+    <choice correct="true">carbon dioxide and water vapour</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; At 100 MHz frequency NMR spectrometer, the shift of the methyl bromide protons is 270 Hz from TMS. Calculate the chemical shift (?) of the compound:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">2.70 ppm</choice>
+    <choice correct="false">0.370 ppm</choice>
+    <choice correct="false">3.70 ppm</choice>
+    <choice correct="false">0.27 ppm</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The distance between the peaks in a simple multiplet is called :</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">spin multiplicity</choice>
+    <choice correct="false">pascal triangle</choice>
+    <choice correct="true">coupling constant</choice>
+    <choice correct="false">chemical shift</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The solvent used for proton NMR measurements should contain deuterium:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">to get a refine spectrum</choice>
+    <choice correct="false">because it is easy to solve the spectrum</choice>
+    <choice correct="false">protons can be located with deuterium as references</choice>
+    <choice correct="true">for locking and shimming purposed on FT NMR instruments</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; A metastable ion peak in a mass spectrum is the:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">highest intensity peak</choice>
+    <choice correct="false">less stable peak which are hardly seen in a mass spectra</choice>
+    <choice correct="true">broad peak which frequently appear at nonintegral values of m/z</choice>
+    <choice correct="false">broad peaks which appear at the M+ ion value</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The molecular ion peak in an aldehyde is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">usually weak for both aromatic and aliphatic aldehyde</choice>
+    <choice correct="false">usually weak for an aromatic aldehyde</choice>
+    <choice correct="false">strong for an aliphatic aldehyde</choice>
+    <choice correct="true">weak for an aliphatic aldehyde and strong for an aromatic aldehyde</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The molecuar ion peak for nitro compounds are seldom seen in a mass spectra. The nitro compounds can be indentified by:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">moderate peak at m/z = 30 corresponding to NO+ and weak peak at m/z =46 corresponding to NO2+ ions</choice>
+    <choice correct="false">strong peaks at m/z = 30 corresponding to NO+ and weak peak at m/z =46 corresponding to NO2+ ions</choice>
+    <choice correct="false">only a weak peak at m/z =46 corresponding to NO2+ ions</choice>
+    <choice correct="false">only a moderate peak at m/z = 30 corresponding to NO+</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Carbon dioxide laser which is a mixture of carbon dioxide and nitrogen has a potential use in routine:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Infrared spectroscopy</choice>
+    <choice correct="false">mass spectroscopy</choice>
+    <choice correct="false">NMR spectroscopy</choice>
+    <choice correct="false">Laser technology</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

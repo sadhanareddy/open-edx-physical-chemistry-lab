@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; NMR technique uses:&#10;() Microwave&#10;(x) Radio waves&#10;() Infrared radiation&#10;() Gamma radiation&#10;&#10;&#10;&gt;&gt; The x-axis in a NMR spectrum is&#10;(x) ratio of the magnetic field strength in ppm&#10;() frequency in cm-1&#10;() mass to charge ratio (m/z)&#10;() Absorbance&#10;&#10;&#10;&gt;&gt; A shielded proton is the one which experiences:&#10;(x) More electron density and more magnetic field strength&#10;() Less electron density and less magnetic field strength&#10;() More electron density and less magnetic field strength&#10;() Less electron density and more magnetic field strength&#10;&#10;&#10;&gt;&gt; The internal reference standard used in NMR experiments is:&#10;(x) tetramethylsilane&#10;() deuterated solvents&#10;() Nor-Leucine&#10;() 2,2-diphenyl-1-picrylhydrazyl&#10;&#10;&#10;&gt;&gt; The TMS (tetramethylsilane) peak value is assigned at:&#10;() δ = 0.05&#10;() δ = 0.11&#10;() δ = 1.00&#10;(x) δ = 0.00&#10;&#10;&#10;&gt;&gt; The number of hydrogens are calculated from peak integration by studying the&#10;() Intensity of the peak&#10;(x) Area under the curve&#10;() Position of the peak&#10;() frequency used&#10;&#10;&#10;&gt;&gt; The most common deuterated solvent used for polar compounds is:&#10;() DMF&#10;(x) DMSO&#10;() Chroloform&#10;() Water&#10;&#10;&#10;&gt;&gt; The 13C NMR spectrum gives information about:&#10;() Number of equivalent Carbon atoms&#10;(x) Number of non- equivalent Carbon atoms&#10;() Number of equivalent hydrogen atoms&#10;() Number of non- equivalent hydrogen atoms&#10;&#10;&#10;&#10;&gt;&gt; The number of peaks tells you:&#10;(x) the number of different proton environments&#10;() the general environment of the protons&#10;() number of protons atoms on the adjacent atom&#10;() number of protons in each environment&#10;&#10;&#10;&gt;&gt; In a NMR spectrum the peak multiplicity gives:&#10;() the number of different proton environments&#10;() the general environment of the protons&#10;(x) number of protons atoms on the adjacent atom&#10;() number of protons in each environment">
+<p>&gt;&gt; NMR technique uses:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Microwave</choice>
+    <choice correct="true">Radio waves</choice>
+    <choice correct="false">Infrared radiation</choice>
+    <choice correct="false">Gamma radiation</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The x-axis in a NMR spectrum is</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">ratio of the magnetic field strength in ppm</choice>
+    <choice correct="false">frequency in cm-1</choice>
+    <choice correct="false">mass to charge ratio (m/z)</choice>
+    <choice correct="false">Absorbance</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; A shielded proton is the one which experiences:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">More electron density and more magnetic field strength</choice>
+    <choice correct="false">Less electron density and less magnetic field strength</choice>
+    <choice correct="false">More electron density and less magnetic field strength</choice>
+    <choice correct="false">Less electron density and more magnetic field strength</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The internal reference standard used in NMR experiments is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">tetramethylsilane</choice>
+    <choice correct="false">deuterated solvents</choice>
+    <choice correct="false">Nor-Leucine</choice>
+    <choice correct="false">2,2-diphenyl-1-picrylhydrazyl</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The TMS (tetramethylsilane) peak value is assigned at:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">δ = 0.05</choice>
+    <choice correct="false">δ = 0.11</choice>
+    <choice correct="false">δ = 1.00</choice>
+    <choice correct="true">δ = 0.00</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The number of hydrogens are calculated from peak integration by studying the</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Intensity of the peak</choice>
+    <choice correct="true">Area under the curve</choice>
+    <choice correct="false">Position of the peak</choice>
+    <choice correct="false">frequency used</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The most common deuterated solvent used for polar compounds is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">DMF</choice>
+    <choice correct="true">DMSO</choice>
+    <choice correct="false">Chroloform</choice>
+    <choice correct="false">Water</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The 13C NMR spectrum gives information about:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Number of equivalent Carbon atoms</choice>
+    <choice correct="true">Number of non- equivalent Carbon atoms</choice>
+    <choice correct="false">Number of equivalent hydrogen atoms</choice>
+    <choice correct="false">Number of non- equivalent hydrogen atoms</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The number of peaks tells you:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">the number of different proton environments</choice>
+    <choice correct="false">the general environment of the protons</choice>
+    <choice correct="false">number of protons atoms on the adjacent atom</choice>
+    <choice correct="false">number of protons in each environment</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; In a NMR spectrum the peak multiplicity gives:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">the number of different proton environments</choice>
+    <choice correct="false">the general environment of the protons</choice>
+    <choice correct="true">number of protons atoms on the adjacent atom</choice>
+    <choice correct="false">number of protons in each environment</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

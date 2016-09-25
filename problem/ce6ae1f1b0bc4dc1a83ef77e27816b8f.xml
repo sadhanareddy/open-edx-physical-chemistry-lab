@@ -1,0 +1,103 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt; Mass spectrum gives valuable information about:&#10;(x) molecular mass&#10;() functionals groups&#10;() conjugation&#10;() vibrational states&#10;&#10;&#10;&gt;&gt; The ions are separated based on their mass to charge ratios in&#10;() ionsiation chamber&#10;(x) mass analyzer&#10;() sample inlet&#10;() detector&#10;&#10;&#10;&gt;&gt; The typical ionisation energy used in a EI-MS is:&#10;() 0.7 eV&#10;() 7 eV&#10;(x) 70 eV&#10;() 700 e V&#10;&#10;&#10;&gt;&gt; Mass spectrum is a plot of:&#10;(x) relative intensity vs mass-to-charge&#10;() relative intensity vs mass-to-energy&#10;() voltage vs mass-to-charge&#10;() voltage vs mass -to -energy&#10;&#10;&#10;&gt;&gt; The molecular ion peak in a mass spectrum corresponds to:&#10;() ion formed by fragmentation of a molecule&#10;(x) molecule losing an electron to form a radical cation&#10;() the most abundant ion&#10;() ion with smallest mass-to-charge&#10;&#10;&#10;&gt;&gt; The base peak in a mass spectrum corresponds to:&#10;() ion formed by fragmentation of a molecule&#10;() molecule losing an electron to form a radical cation&#10;(x) the most abundant ion&#10;() ion with smallest mass-to-charge&#10;&#10;&#10;&gt;&gt; In an magnetic sector mass analyser, the ion separation is based on:&#10;() ions with the correct mass-to-charge ratio undergo stable oscillation and passes through the cylinderal rods before they hit the detector&#10;() lighter ions have higher velocity&#10;(x) greater mass to charge ratio have larger radius of the curved path&#10;() Heavier ions have higher velocity&#10;&#10;&#10;&gt;&gt; The sample introduced into the sample inlet first gets:&#10;(x) vapourised&#10;() ionised&#10;() accelarated&#10;() deflected&#10;&#10;&#10;&gt;&gt; If a compound has an even number of nitrogen atoms, its molecular ion will appear at an even mass value. This is called:&#10;() Mass rule&#10;() Molecular ion rule&#10;(x) Nitrogen rule&#10;() Stevenson's rule&#10;&#10;&#10;&gt;&gt; The most probable fragmentation is the onw that leaves the positive charge on the fragment with the lowest ionsiation energy. This rule is called:&#10;() Mass rule&#10;() Molecular ion rule&#10;() Nitrogen rule&#10;(x) Stevenson's rule">
+<p>&gt;&gt; Mass spectrum gives valuable information about:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">molecular mass</choice>
+    <choice correct="false">functionals groups</choice>
+    <choice correct="false">conjugation</choice>
+    <choice correct="false">vibrational states</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The ions are separated based on their mass to charge ratios in</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ionsiation chamber</choice>
+    <choice correct="true">mass analyzer</choice>
+    <choice correct="false">sample inlet</choice>
+    <choice correct="false">detector</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The typical ionisation energy used in a EI-MS is:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">0.7 eV</choice>
+    <choice correct="false">7 eV</choice>
+    <choice correct="true">70 eV</choice>
+    <choice correct="false">700 e V</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; Mass spectrum is a plot of:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">relative intensity vs mass-to-charge</choice>
+    <choice correct="false">relative intensity vs mass-to-energy</choice>
+    <choice correct="false">voltage vs mass-to-charge</choice>
+    <choice correct="false">voltage vs mass -to -energy</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The molecular ion peak in a mass spectrum corresponds to:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ion formed by fragmentation of a molecule</choice>
+    <choice correct="true">molecule losing an electron to form a radical cation</choice>
+    <choice correct="false">the most abundant ion</choice>
+    <choice correct="false">ion with smallest mass-to-charge</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The base peak in a mass spectrum corresponds to:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ion formed by fragmentation of a molecule</choice>
+    <choice correct="false">molecule losing an electron to form a radical cation</choice>
+    <choice correct="true">the most abundant ion</choice>
+    <choice correct="false">ion with smallest mass-to-charge</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; In an magnetic sector mass analyser, the ion separation is based on:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">ions with the correct mass-to-charge ratio undergo stable oscillation and passes through the cylinderal rods before they hit the detector</choice>
+    <choice correct="false">lighter ions have higher velocity</choice>
+    <choice correct="true">greater mass to charge ratio have larger radius of the curved path</choice>
+    <choice correct="false">Heavier ions have higher velocity</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The sample introduced into the sample inlet first gets:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">vapourised</choice>
+    <choice correct="false">ionised</choice>
+    <choice correct="false">accelarated</choice>
+    <choice correct="false">deflected</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; If a compound has an even number of nitrogen atoms, its molecular ion will appear at an even mass value. This is called:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mass rule</choice>
+    <choice correct="false">Molecular ion rule</choice>
+    <choice correct="true">Nitrogen rule</choice>
+    <choice correct="false">Stevenson's rule</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>&gt;&gt; The most probable fragmentation is the onw that leaves the positive charge on the fragment with the lowest ionsiation energy. This rule is called:</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Mass rule</choice>
+    <choice correct="false">Molecular ion rule</choice>
+    <choice correct="false">Nitrogen rule</choice>
+    <choice correct="true">Stevenson's rule</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
